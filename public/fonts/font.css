@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Athiti-Regular';
+    src: url('Athiti-Regular.eot');
+    src: url('Athiti-Regular.eot?#iefix') format('embedded-opentype'),
+         url('Athiti-Regular.woff2') format('woff2'),
+         url('Athiti-Regular.woff') format('woff'),
+         url('Athiti-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Mitr-Regular';
+    src: url('Mitr-Regular.eot');
+    src: url('Mitr-Regular.eot?#iefix') format('embedded-opentype'),
+         url('Mitr-Regular.woff2') format('woff2'),
+         url('Mitr-Regular.woff') format('woff'),
+         url('Mitr-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Prompt-Regular';
+    src: url('Prompt-Regular.eot');
+    src: url('Prompt-Regular.eot?#iefix') format('embedded-opentype'),
+         url('Prompt-Regular.woff2') format('woff2'),
+         url('Prompt-Regular.woff') format('woff'),
+         url('Prompt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'THSarabunNew';
+    src: url('THSarabun.ttf') format('truetype');
+
+}
+
+@font-face {
+    font-family: 'THSarabunNew';
+    src: url('thsarabunnew-webfont.eot');
+    src: url('thsarabunnew-webfont.eot?#iefix') format('embedded-opentype'),
+         url('thsarabunnew-webfont.woff') format('woff'),
+         url('thsarabunnew-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'THSarabunNew';
+    src: url('thsarabunnew_bolditalic-webfont.eot');
+    src: url('thsarabunnew_bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('thsarabunnew_bolditalic-webfont.woff') format('woff'),
+         url('thsarabunnew_bolditalic-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'THSarabunNew';
+    src: url('thsarabunnew_italic-webfont.eot');
+    src: url('thsarabunnew_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('thsarabunnew_italic-webfont.woff') format('woff'),
+         url('thsarabunnew_italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'THSarabunNew';
+    src: url('thsarabunnew_bold-webfont.eot');
+    src: url('thsarabunnew_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('thsarabunnew_bold-webfont.woff') format('woff'),
+         url('thsarabunnew_bold-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
